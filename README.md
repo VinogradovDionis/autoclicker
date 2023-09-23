@@ -11,3 +11,13 @@ In addition, SmartClick provides a high level of security and reliability. It do
 
 With SmartClick, you can significantly reduce your time and improve your productivity by working more efficiently.<hr>
 
+
+
+![Image alt](https://github.com/VinogradovDionis/autoclicker/blob/main/кликпнг.png)
+
+<h5>Link to the program</h5>
+
+
+
+<a href='https://kwork.ru/software/26337811/smartclick-umniy-avtokliker-neogranichennoe-chislo-klikov-skorost?ref=3675462'>Buy</a>
+
